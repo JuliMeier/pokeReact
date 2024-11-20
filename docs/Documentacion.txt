@@ -1,0 +1,4 @@
+* Creado con npx create-react-app curso-react --template typescript
+* npm run start
+* npm i react-router-dom
+* npm install react-bootstrap bootstrap
